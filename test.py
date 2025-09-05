@@ -1,2 +1,2 @@
 import OS
-print('')
+print('Hello World')
