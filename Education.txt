@@ -2,3 +2,6 @@ Elementary School: La Union ELementary School
 Year graduated: 2016 -2017
 High School: La Union National High school
 Year Graduated: 2022-2023
+College: Caraga state University Cabadbaran Campus
+Program: BSIT
+Year Level: 3rd year
