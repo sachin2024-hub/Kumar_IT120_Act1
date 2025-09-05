@@ -1,0 +1,7 @@
+First Name: Sachin
+Middle Name: Luague
+Last Name: Kumar
+Gender: Male
+Age:21
+Birthday: July 11,2004
+Contacts: 09382440444
