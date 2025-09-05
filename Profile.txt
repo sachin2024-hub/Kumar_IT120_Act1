@@ -5,3 +5,9 @@ Gender: Male
 Age:21
 Birthday: July 11,2004
 Contacts: 09382440444
+Birth Place: Cagayan De Oro
+Religion: Catholic
+Father's name: Rakish M. Kumar
+Occupation: N/A
+Mother's Name:Cheryl L. Kumar
+Occupation: House wife
